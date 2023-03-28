@@ -6,4 +6,3 @@ pursuing my Computer Science degree at Kent State University,
 and continuing with my love for coding.
 <h6/>
 <h4> Software Engineer/Software Dev <h4/>
-
